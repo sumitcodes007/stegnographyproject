@@ -24,7 +24,7 @@ Installation
 
 1. Clone the repository:
 
-https://github.com/satyam2003-cpu/myproject.git
+https://github.com/sumitcodes007/stegnographyproject.git
 
 
 2. Install the required packages:
@@ -41,12 +41,7 @@ Place the image (e.g., mypic.jpg) in the script's directory.
 
 
 
-2. Run the Script:
-
-https://github.com/satyam2003-cpu/myproject/blob/main/stego.py
-
-
-3. Follow the Prompts:
+2. Follow the Prompts:
 
 Encoding: Enter the secret message and a passcode to embed the message into the image, which will be saved as encryptedImage.jpg.
 
